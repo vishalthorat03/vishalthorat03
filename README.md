@@ -48,7 +48,7 @@ Continuous learning
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![GIN]([https://img.shields.io/badge/Nginx-1f2937?style=for-the-badge&logo=nginx&logoColor=009639](https://gin-gonic.com/))
+![Gin](https://img.shields.io/badge/Gin-1f2937?style=for-the-badge&logo=gin&logoColor=00B0F0)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-1f2937?style=for-the-badge&logo=jira&logoColor=0052CC)
 
