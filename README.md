@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Vishal Thorat</h1>
 <h3 align="center">Backend Developer (Go) | AI & ML Enthusiast | Building Secure & Scalable Systems</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishalthorat03&style=for-the-badge&color=1f2937" />
+</p>
+
 ---
 
 ## About Me
@@ -29,7 +33,6 @@ Continuous learning
 ---
 
 ## Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vishalsanjaythorat)
 [![Email](https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vishalthorat9680@gmail.com)
 
@@ -40,6 +43,7 @@ Continuous learning
 ### Backend & Programming
 ![Go](https://img.shields.io/badge/Go-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white)
+[![Gin](https://img.shields.io/badge/Gin-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8)](https://gin-gonic.com/)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -48,7 +52,8 @@ Continuous learning
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=0db7ed)
-[![Gin](https://img.shields.io/badge/Gin-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8)](https://gin-gonic.com/)
+![Nginx](https://img.shields.io/badge/Nginx-1f2937?style=for-the-badge&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-1f2937?style=for-the-badge&logo=jira&logoColor=0052CC)
 
