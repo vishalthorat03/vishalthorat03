@@ -29,7 +29,9 @@ Continuous learning
 ---
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalsanjaythorat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vishalsanjaythorat)
+[![Email](https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vishalthorat9680@gmail.com)
 
 ---
 
